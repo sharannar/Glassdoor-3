@@ -1,0 +1,9 @@
+/*Return a list of all employee survey ID, role, education level, pay, and age for each Glassdoor survey participant. Sort by the role title from A to Z.*/
+Select empsurvid,
+jobtitle,
+education,
+age,
+basepay,
+bonus
+From glassdoor_survey_roles
+Order by jobtitle ASC
