@@ -1,0 +1,1 @@
+# Glassdoor-3: In this project, I wanted to know  a list of all employee survey ID, role, education level, pay, and age for each Glassdoor survey participant. Also, Sort by the role title from A to Z.
